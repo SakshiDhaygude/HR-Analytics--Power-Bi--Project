@@ -1,6 +1,9 @@
 # HR-Analytics--Power-Bi--Project
 
 This HR Analytics Dashboard provides a clear visual summary of employee attrition patterns and workforce demographics. Here's an overview:
+Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMTljYjllNTEtY2E4YS00MGRkLTkxYWMtMDk2NGQ0NmRkNjM3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9   
+
+
 ________________________________________
 🔹 Overall Summary
 •	Total Employees: 1,470
